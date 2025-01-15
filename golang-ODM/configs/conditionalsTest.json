@@ -1,0 +1,12 @@
+[
+    {"condition": "boolean",
+    "rule": true},
+    {"condition": "boolean",
+    "rule": true},
+    {"condition": "boolean",
+    "rule": false},
+    {"condition": "boolean",
+    "rule": true},
+    {"condition": "boolean",
+    "rule": false}
+]
